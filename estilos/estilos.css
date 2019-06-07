@@ -1,0 +1,41 @@
+.colorcaja{
+	background-color: #610A85;
+	margin: 15px;
+	padding: 15px;
+	border: 5px solid #000000;
+	/*border-radius: 10px;        */
+	border-top-right-radius: 50px;  
+	border-top-left-radius:50px;
+	border:5px dotten;
+
+
+	width: 900;
+	margin:auto;/*centrar la pagina*/
+
+     /*http://www.mclibre.org/consultar/htmlcss/css/css-bordes.html*/
+
+	/*thomasklz/ejercicio2*/
+ 
+}
+li{
+   list-style-type: 
+ }
+
+ #menu{
+ 	background-color: #37A625;
+
+ }
+
+ #menu li{
+ 	display: inline-block;
+ 	padding: 5px;
+ }
+
+ #menu li:hover{
+  background-color: #FFFFFF;
+ }
+
+ a{
+ 	text-decoration: none;
+ 	color:  #000000;
+ }
